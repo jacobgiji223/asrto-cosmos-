@@ -1,0 +1,19 @@
+/* Style to remove margins and make the canvas fullscreen */
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+/* Style for the information box that appears on click */
+#infoBox {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background: white;
+  padding: 10px;
+  display: none;
+}
+
+#infoImage {
+  width: 100px;
+}
